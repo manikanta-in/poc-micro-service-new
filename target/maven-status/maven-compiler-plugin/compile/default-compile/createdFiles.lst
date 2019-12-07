@@ -1,0 +1,7 @@
+com\poc\ms\model\User.class
+com\poc\ms\service\impl\UserServiceImpl.class
+com\poc\ms\service\UserService.class
+com\poc\ms\resource\UserResource.class
+com\poc\ms\repo\UserRepository.class
+com\poc\ms\PocMicroServiceApplication.class
+com\poc\ms\config\SwaggerConfig.class
