@@ -10,9 +10,9 @@
 		<relativePath /> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.poc</groupId>
-	<artifactId>poc-micro-service-1</artifactId>
+	<artifactId>poc-micro-service-new</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>poc-micro-service</name>
+	<name>poc-micro-service-new</name>
 	<description>Demo project for Spring Boot Micro Service</description>
 
 	<properties>
