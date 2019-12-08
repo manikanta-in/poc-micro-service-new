@@ -1,5 +1,3 @@
-DROP TABLE IF EXISTS tbl_user;
-
 CREATE TABLE IF NOT EXISTS tbl_user (
   id SERIAL PRIMARY KEY ,
   username varchar(25) NOT NULL,
