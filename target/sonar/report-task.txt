@@ -2,5 +2,5 @@ projectKey=com.poc:poc-micro-service-new
 serverUrl=http://localhost:9000
 serverVersion=6.7.7.38951
 dashboardUrl=http://localhost:9000/dashboard/index/com.poc:poc-micro-service-new
-ceTaskId=AW7kJKTcqwN8Le7jFSU5
-ceTaskUrl=http://localhost:9000/api/ce/task?id=AW7kJKTcqwN8Le7jFSU5
+ceTaskId=AW7kWvnZqwN8Le7jFSU6
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AW7kWvnZqwN8Le7jFSU6
